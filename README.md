@@ -41,3 +41,8 @@ Model follows a **star schema** with explicit DAX measures for performance and t
    ```bash
    git clone
    (https://github.com/ArashSaraee/Zaya-Properties-Dashboard-)
+
+## 📄 Alternate Format (PDF Overview)
+
+For those who **cannot open Power BI files** or prefer a quick visual overview,  
+a **PDF version of the dashboard** is also included in this repository.  
