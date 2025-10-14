@@ -39,4 +39,4 @@ Model follows a **star schema** with explicit DAX measures for performance and t
 
 1. **Download** the `.pbix` file  
    ```bash
-   git clone https://github.com/<your-username>/Zaya-DLD-PowerBI.git
+   git clone https://github.com/<ArashSaraee>/Zaya-DLD-PowerBI.git
